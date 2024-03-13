@@ -1,0 +1,14 @@
+{
+  "resourceName": "s365eecd6f",
+  "policyUUID": "65eecd6f",
+  "bucketName": "bucketlisttrackerapp502f66b316624dcd9f21bfe41e4",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
